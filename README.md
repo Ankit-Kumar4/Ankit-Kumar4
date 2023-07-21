@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit-Kumar4
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DSA, SQL
+- 👀 I’m interested in Full Stack Development
+- 🌱 I
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://www.linkedin.com/in/ankit-kumar11/)
 
